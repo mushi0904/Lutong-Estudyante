@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lutong Estudyante</title>
+    <link rel="shortcut icon" href="IMG/logo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav class="container">
+            <div class="logo">
+                <img src="IMG/logo.jpg" alt="Lutong Estudyante Logo">
+                <span>LUTONG ESTUDYANTE</span>
+            </div>
+            <div class="nav-links">
+                <a href="#" class="nav-item">ALL RECIPES</a>
+                
+                <div class="dropdown">
+                    <button class="dropbtn">GRADE LEVEL</button>
+                    <div class="dropdown-content">
+                        <div class="nested-dropdown">
+                            <a href="#" class="nested-dropbtn">Grade 9</a>
+                            <div class="nested-dropdown-content">
+                                <div class="category-section">
+                                    <h4>MEALS</h4>
+                                    <a href="#" data-category="appetizer">Appetizer</a>
+                                    <a href="#" data-category="salad">Salad</a>
+                                    <a href="#" data-category="sandwich">Sandwich</a>
+                                    <a href="#" data-category="pasta">Pasta</a>
+                                    <a href="#" data-category="dessert">Dessert</a>
+                                </div>
+                                <div class="category-section">
+                                    <h4>INGREDIENTS</h4>
+                                    <a href="#" data-category="meat">Meat</a>
+                                    <a href="#" data-category="seafood">Seafood</a>
+                                    <a href="#" data-category="vegetables">Vegetables</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="nested-dropdown">
+                            <a href="#" class="nested-dropbtn">Grade 10</a>
+                            <div class="nested-dropdown-content">
+                                <div class="category-section">
+                                    <h4>Pantry Essentials</h4>
+                                    <a href="#" data-category="appetizer">Sauces</a>
+                                    <a href="#" data-category="salad">Soup</a>
+                                    <a href="#" data-category="pasta">Pasta</a>
+                                    <a href="#" data-category="dessert">Grains</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dropdown">
+                    <button class="dropbtn">BY METHOD</button>
+                    <div class="dropdown-content">
+                        <a href="#" data-category="baking">Baking</a>
+                        <a href="#" data-category="grilling">Grilling</a>
+                        <a href="#" data-category="roasting">Roasting</a>
+                    </div>
+                </div>
+
+                <div class="dropdown">
+                    <button class="dropbtn">TOOLS & GUIDES</button>
+                    <div class="dropdown-content">
+                        <a href="#">Cooking Tools</a>
+                        <a href="#">Measurement Guide</a>
+                        <a href="#">Cooking Terms</a>
+                    </div>
+                </div>
+            </div>
+            <div class="menu-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <div class="search-container">
+                        <button class="explore-button">EXPLORE RECIPES</button>
+                        <div class="search-icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="recipes" class="featured-recipes">
+            <div class="container">
+                <h2>Featured Recipes</h2>
+                <div class="recipe-grid">
+                    <div class="recipe-card">
+                        <img src="/placeholder.svg?height=200&width=300" alt="Recipe 1">
+                        <div class="recipe-content">
+                            <h3>Quick Breakfast Bowl</h3>
+                            <p>Start your day with this nutritious and easy-to-prepare breakfast bowl.</p>
+                        </div>
+                    </div>
+                    <div class="recipe-card">
+                        <img src="/placeholder.svg?height=200&width=300" alt="Recipe 2">
+                        <div class="recipe-content">
+                            <h3>Budget Lunch Pack</h3>
+                            <p>Perfect for bringing to school - affordable and delicious lunch ideas.</p>
+                        </div>
+                    </div>
+                    <div class="recipe-card">
+                        <img src="https://www.maggi.ph/sites/default/files/srh_recipes/41d16b3eb7ce08aba9e9114f304f5d87.jpg" alt="Recipe 3">
+                        <div class="recipe-content">
+                            <h3>Adobo</h3>
+                            <p>Simple dinner recipes you can make.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
