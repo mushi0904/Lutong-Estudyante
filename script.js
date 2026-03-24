@@ -404,7 +404,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "Beef Caldereta",
         description: "a hearty Filipino beef stew with a tomato sauce base, potatoes, carrots, and other vegetables.",
-        image: "https://www.nestlegoodnes.com/ph/sites/default/files/styles/1_1_768px_width/public/srh_recipes/b12d1b906f24b74e32083efb0bd58ecd.jpg.webp?itok=BK2DzXAa",
+        image: "https://www.seriouseats.com/thmb/GHxu-nUE4SEMlzvJNtcDFxolUsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__20110114-goatstewcebu-primary_2-e88cf43a217b441581d6dfa2d345ca3f.jpg",
         video: "https://www.youtube.com/embed/RMGCWHpI9Ok",
         ingredients: [
           "1 kilo beef stew meat (karne ng baka, cut into cubes)",
@@ -802,7 +802,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "Pancit Canton",
         description: "Filipino stir-fried noodles with vegetables and meat.",
-        image: "https://yummykitchentv.com/wp-content/uploads/2023/01/pancit-canton-recipe-500x500.jpg",
+        image: "https://curiousflavors.com/wp-content/uploads/2024/01/Untitled-design-2024-01-30T141518.244.jpg",
         video: "https://www.youtube.com/embed/6-b6h_LoJyg",
         ingredients: [
           "500g pancit canton noodles",
@@ -948,7 +948,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "Cookies",
         description: "A small, sweet, baked dessert or snack that is often made with flour, sugar, butter, and eggs.",
-        image: "https://cdn.loveandlemons.com/wp-content/uploads/2024/08/chocolate-chip-cookie-recipe.jpg",
+        image: "https://lemonsandzest.com/wp-content/uploads/2020/02/Small-Batch-Chocolate-Chip-Cookies-Recipe-3.10.jpg",
         video: "https://www.youtube.com/embed/ne3KWSG6994",
         ingredients: [
           "2 and 1/4 cups (280g) all-purpose flour (spooned and leveled)",
