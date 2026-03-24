@@ -350,7 +350,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "Letchon Kawali",
         description: "Quick and easy pork stir fry with vegetables.",
-        image: "https://www.seriouseats.com/thmb/orl1xkPajYxzsOZwkooPtdYvM-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210508-lechon-kawali-melissa-hom-2-inchChunks-seriouseats-1d53c12cee234305b921362e2106bf29.jpg",
+        image: "https://static01.nyt.com/images/2023/11/28/multimedia/ND-Lechon-Kawali-bflv/ND-Lechon-Kawali-bflv-videoSixteenByNineJumbo1600.jpg",
         video: "https://www.youtube.com/embed/bs0YWqHPURk",
         ingredients: [
           "1 kilo pork belly (baboy, hiniwa into chunks)",
@@ -404,7 +404,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "Beef Caldereta",
         description: "a hearty Filipino beef stew with a tomato sauce base, potatoes, carrots, and other vegetables.",
-        image: "https://api.lifegetsbetter.ph/uploads/recipes/featured/FamilySize-QNE-BeefCaldereta-Featured.jpg",
+        image: "https://www.nestlegoodnes.com/ph/sites/default/files/styles/1_1_768px_width/public/srh_recipes/b12d1b906f24b74e32083efb0bd58ecd.jpg.webp?itok=BK2DzXAa",
         video: "https://www.youtube.com/embed/RMGCWHpI9Ok",
         ingredients: [
           "1 kilo beef stew meat (karne ng baka, cut into cubes)",
@@ -699,7 +699,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "Corned Beef Sandwich",
         description: "A quick and easy sandwich using canned corned beef.",
-        image: "https://www.seriouseats.com/thmb/H4EToSvkPiMjXilHVBHmpTehM3s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220919-Reuben-Amanda-Suarez-25-Hero-a2d20d81e56641a098e6db49b6e30b41.jpg",
+        image: "https://amandascookin.com/wp-content/uploads/2022/02/Corned-Beef-Sandwich-RC-SQ.jpg",
         video: "https://www.youtube.com/embed/mDSMxNw180g",
         ingredients: [
           "1 can corned beef",
@@ -802,7 +802,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "Pancit Canton",
         description: "Filipino stir-fried noodles with vegetables and meat.",
-        image: "https://panlasangpinoy.com/wp-content/uploads/2023/10/special-pancit-canton-500x500.jpg",
+        image: "https://yummykitchentv.com/wp-content/uploads/2023/01/pancit-canton-recipe-500x500.jpg",
         video: "https://www.youtube.com/embed/6-b6h_LoJyg",
         ingredients: [
           "500g pancit canton noodles",
@@ -948,7 +948,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         title: "Cookies",
         description: "A small, sweet, baked dessert or snack that is often made with flour, sugar, butter, and eggs.",
-        image: "https://www.lurch.de/media/f0/e5/95/1684923933/american-cookies-rezept.jpg?ts=1684923933",
+        image: "https://cdn.loveandlemons.com/wp-content/uploads/2024/08/chocolate-chip-cookie-recipe.jpg",
         video: "https://www.youtube.com/embed/ne3KWSG6994",
         ingredients: [
           "2 and 1/4 cups (280g) all-purpose flour (spooned and leveled)",
